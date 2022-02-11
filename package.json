@@ -1,0 +1,22 @@
+{
+  "name": "gridsome-plugin-firebase-auth",
+  "version": "1.0.0",
+  "description": "Gridsome plugin using firebase, vuex",
+  "main": "gridsome.client.js",
+  "files": [
+    "gridsome.client.js"
+  ],
+  "keywords": [
+    "firebase",
+    "vuex",
+    "gridsome",
+    "gridsome-plugin"
+  ],
+  "peerDependencies": {
+    "vuex": "*",
+    "firebase": "*"
+  },
+  "author": "Astami Vishwakarma",
+  "license": "MIT",
+  "private": true
+}
